@@ -9,7 +9,7 @@
 | Campo | Detalhe |
 | :--- | :--- |
 | **Matéria** | Padrões de Projeto |
-| **Avaliação** | Avaliação 01 |
+| **Avaliação** | Avaliação 02 |
 | **Turma** | Turma 2 — QUINTA-FEIRA: 19H |
 | **Professor** | Leandro Fabian Almeida Escobar |
 | **Aluno(a)** | Gabriela Pedroso dos Santos |
