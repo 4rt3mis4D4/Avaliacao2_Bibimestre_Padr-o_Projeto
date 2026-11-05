@@ -1,4 +1,4 @@
-# Avaliação 01 — Padrões de Projeto
+# Avaliação 02 — Padrões de Projeto
 
 > Repositório destinado à entrega da **Avaliação 02** da disciplina de **Padrões de Projeto**.
 
